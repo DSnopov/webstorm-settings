@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.ejs.html" type="EJS" />
+      <mapping pattern="kK1ZziGBnAs0pcVT3rtYkabiRwMKHhI_lMjYvIaJ5jw" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

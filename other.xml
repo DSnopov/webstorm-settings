@@ -1,0 +1,36 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.13.0" last-modified="1540886484000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.24828874" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6558753" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="KEYMAP" value="standard" />
+    <property name="SearchEveryWhereHistory" value="&quot;&#10;#808080" />
+    <property name="SettingsSearchHistory" value="zoom&#10;live&#10;file types&#10;templates&#10;template" />
+    <property name="SplitFileEditor.Proportion" value="0.53477937" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.63300145" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.6666666" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="emmet.last.wrap.abbreviations" value="div" />
+    <property name="emmet.recent.wrap.abbreviations" value="div" />
+    <property name="evlsprt.181" value="16306ebb1ad" />
+    <property name="evlsprt2.181" value="162b9adbdc8" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="file.gist.reindex.count" value="30748" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="selected.color.option.type" value="JS.BADCHARACTER" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

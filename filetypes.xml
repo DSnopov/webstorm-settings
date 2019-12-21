@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.ejs.html" type="EJS" />
+      <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="kK1ZziGBnAs0pcVT3rtYkabiRwMKHhI_lMjYvIaJ5jw" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="errors.md" type="PLAIN_TEXT" />

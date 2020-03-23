@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.ejs.html" type="EJS" />
+      <mapping pattern=".prettierignore" type="GitIgnore file" />
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="errors.md" type="PLAIN_TEXT" />
